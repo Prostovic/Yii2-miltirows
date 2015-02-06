@@ -1,7 +1,7 @@
 {
     "name": "prostovic/Yii2-multirows",
     "description": "Edit master and slaves records in one form",
-    "license": "MIT",
+    "license": "BSD_3Clause",
     "keywords": ["multirows", "Yii2"],
     "authors": [
         {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "prostovic\\multirows\\": "src"
+            "prostovic\\yii2multirows\\": "src"
         }
     }
 }
