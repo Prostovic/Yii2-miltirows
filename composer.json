@@ -2,7 +2,8 @@
     "name": "prostovic/Yii2-multirows",
     "description": "Edit master and slaves records in one form",
     "license": "BSD_3Clause",
-    "type": "yii2-extension", 
+    "type": "yii2-extension",
+    "version": "0.1",
     "keywords": ["multirows", "Yii2"],
     "authors": [
         {
