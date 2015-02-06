@@ -1,0 +1,21 @@
+{
+    "name": "prostovic/Yii2-multirows",
+    "description": "Edit master and slaves records in one form",
+    "license": "MIT",
+    "keywords": ["multirows", "Yii2"],
+    "authors": [
+        {
+            "name": "Victor Kozmin",
+            "email": "promcalc@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "prostovic\\multirows\\": "src"
+        }
+    }
+}
