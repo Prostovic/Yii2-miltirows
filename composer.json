@@ -2,6 +2,7 @@
     "name": "prostovic/Yii2-multirows",
     "description": "Edit master and slaves records in one form",
     "license": "BSD_3Clause",
+    "type": "yii2-extension", 
     "keywords": ["multirows", "Yii2"],
     "authors": [
         {
@@ -9,9 +10,10 @@
             "email": "promcalc@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "yiisoft/yii2": "*"
+    },
     "require-dev": {
-        "phpunit/phpunit": "4.*"
     },
     "autoload": {
         "psr-4": {
